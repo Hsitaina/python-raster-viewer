@@ -1,3 +1,5 @@
+### Application 2 - Basic Raster Viewer using Python
+
 This will install all the dependencies for the project.
 ```
 pip install -r requirements.txt
